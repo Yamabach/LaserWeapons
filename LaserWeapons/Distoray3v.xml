@@ -149,6 +149,8 @@
 
       <PurgeVector x="0.0" y="0.0" z="1.0" />
       <PurgePower>5.0</PurgePower>
+		
+		<fuelConsumptionOnFire>150</fuelConsumptionOnFire>
 
       <ShowPlaceholderProjectile>true</ShowPlaceholderProjectile>
 
@@ -252,6 +254,8 @@
       <PurgeVector x="0.0" y="0.0" z="1.0" />
       <PurgePower>5.0</PurgePower>
 
+		<fuelConsumptionOnFire>150</fuelConsumptionOnFire>
+
       <ShowPlaceholderProjectile>true</ShowPlaceholderProjectile>
 
       <DefaultAmmo>50</DefaultAmmo>
@@ -354,6 +358,8 @@
       <PurgeVector x="0.0" y="0.0" z="1.0" />
       <PurgePower>5.0</PurgePower>
 
+		<fuelConsumptionOnFire>150</fuelConsumptionOnFire>
+		
       <ShowPlaceholderProjectile>true</ShowPlaceholderProjectile>
 
       <DefaultAmmo>50</DefaultAmmo>

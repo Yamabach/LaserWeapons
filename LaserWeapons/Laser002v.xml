@@ -138,6 +138,9 @@
         <Scale x="1.0" y="1.0" z="1.0" />
       </ShotFlashPosition>
 
+		<fuelConsumptionOnFire>150</fuelConsumptionOnFire>
+		<useFreezingAttack>true</useFreezingAttack>
+
       <ShowPlaceholderProjectile>false</ShowPlaceholderProjectile>
 
       <DefaultAmmo>120</DefaultAmmo>
